@@ -533,10 +533,6 @@ Our experiment and test results can provide some insights on the accuration and 
 
 For instance, our results indicate successful detection at negative lighting values especially with signals that have white text. Together with a successful detection for text with high particle values, we can conclude that Rekognition can successfully recognize traft signs at night and rainy days. However, relatively poor performance for text with high blurring values and high positive lighting values infer that  under the extreme bright environment or speeding motions, Rekognition may not precisely recognize the text on the traffic sign, leading to possible danger for drivers. As machine learning technology develops, we believe that further investigation and improvement on Rekognition’s performance will lead to a promising future for automatic pilot’s precise and accurate recognition of traffic signs.
 
-## GitHub Repository
-
-https://github.com/LuckyVII7/QTM350FinalProject.git
-
 ## Work Cited: 
 
 https://aws.amazon.com/blogs/machine-learning/automatically-detecting-personal-protective-equipment-on-persons-in-images-using-amazon-rekognition/
